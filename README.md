@@ -40,6 +40,7 @@ This project is a Car Rental Management System built with Spring Boot (backend) 
 The project follows a standard structure for a Spring Boot application with separate packages for controllers, services, models, and repositories. Similarly, the Angular frontend is organized with components, services, and modules.
 project
 
+```plaintext
 car-rental
 |-- backend
 |   |-- src
@@ -59,7 +60,7 @@ car-rental
 |       |-- ...
 |-- pom.xml
 |-- ...
-
+```
 
 
 ## Setup Instructions
