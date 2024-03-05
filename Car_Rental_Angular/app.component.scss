@@ -1,0 +1,52 @@
+.custom-navbar{
+    background-color:#003973;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+    .navbar-title {
+        >a {
+            color: white limportant;
+            margin-left: 10px;
+            font-size: 18px;
+            font-weight: bolder;
+        }
+    }
+    
+    .nav-links {
+        display: flex;
+        align-items: center;
+        a {
+            color: white;
+            margin-left: 15px;
+        }
+    }
+
+    // .header-container {
+    //     background-image: url('./images/cars.avif');
+    //     background-size: cover;
+    //     background-repeat: no-repeat;
+    //   }
+      
+    //   .main-header {
+    //     /* Add any additional styles for the header container if needed */
+    //   }
+      
+    //   .navbar-title {
+    //     /* Add any specific styles for the navbar title */
+    //   }
+      
+    //   .nav-links {
+    //     /* Add any specific styles for the navigation links */
+    //   }
+      
+    //   .logo-image {
+    //     /* Add any specific styles for the logo image */
+    //     height: 50px; // Adjust the height as needed
+    //     width: auto;
+    //     display: flex;
+    //     text-transform: uppercase;
+    //     font-size: 1.1rem;
+     // }
+}
